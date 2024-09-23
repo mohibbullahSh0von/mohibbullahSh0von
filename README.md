@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any web development projects.
 - 📫 How to reach me {my email address: mohibbullahshovon.dev@gmail.com
       my contact number: +8801753-415129 (Telegram/Whatsapp)}
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a BSc. student of CoE (Computer Engineering) at American International University of Bangladesh
 
 <!---
